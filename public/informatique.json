@@ -1,0 +1,10 @@
+{
+    "ordinateur":{
+        "definition":[
+            {
+                "categorie":"informatique",
+                "description":"Un ordinateur est utiliser pour traiter de l'information numerique."
+            }
+        ]
+    }
+}
