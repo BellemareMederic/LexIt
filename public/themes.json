@@ -1,26 +1,26 @@
 [
     {
       "title": "Informatique",
-      "url": "url1"
+      "iconUrl": "../src/assets/laptop.svg"
     },
     {
       "title": "sciences",
-      "url": ""
+      "iconUrl": "http://placekitten.com/50/50"
     },
     {
       "title": "categorie 1",
-      "url": "url1"
+      "iconUrl": "http://placekitten.com/800/200"
     },
     {
       "title": "categorie 2",
-      "url": ""
+      "iconUrl": "http://placekitten.com/200/800"
     },
     {
       "title": "categorie 1",
-      "url": "url1"
+      "iconUrl": "http://placekitten.com/150/756"
     },
     {
       "title": "categorie 2",
-      "url": ""
+      "iconUrl": "http://placekitten.com/214/456"
     }
 ]

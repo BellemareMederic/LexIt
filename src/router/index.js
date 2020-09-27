@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
-import Theme from '../views/Theme.vue'
+import Themes from '../views/Themes.vue'
+import Theme from '../views/Themes.vue'
 
 const routerHistory = createWebHistory();
 
@@ -12,11 +13,11 @@ const router = createRouter({
         component: Home
       },
       {
-        path: '/themes',
-        component: Theme
+        path: '/theme',
+        component: Themes
       },
       {
-        path: '/themes/:category',
+        path: '/theme/:category',
         component: Theme
       }
     ]
